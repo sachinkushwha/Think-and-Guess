@@ -1,0 +1,16 @@
+.contaner{
+    border: 2px solid black;
+    width: 250px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#guessnumlab{
+    position: relative;
+    right: 46px;
+}
+.contaner button{
+    margin-top: 25px;
+}
